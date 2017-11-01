@@ -15,7 +15,7 @@ Submitting this code, we get the output below.
 ![Output of identify2](/images/Result52.jpg)
 ### On seeing the result of this time, we can recognise that the trend graph is 'randomised' and there are no more upward trend. But there still be the influence from seasonal changing patterns. In order to remove this influence, we must introduce the AR(Auto Regression) and MA(Moving Average) models with differenciation. In this stage, SAS can help us quite strongly with testing the several model parameters automatically and recommending us the best fit model for this series. The code we must submit this time is shown below with 'scan' option in the var statement.
 ![Code of identify3](/images/ProcStepARIMA3.jpg)
-### And we get the result of 'scanning' as below and recommendation of p(autoregression parameter)=5 and q(moving average parameter)=5. Hence we get the initial model of ARIMA(5,1,5) as a result.
+### And we get the result of 'scanning' as below and recommendation of p(autoregression parameter)=4 and q(moving average parameter)=5. Hence we get the initial model of ARIMA(4,1,5) as a result.
 ![Output of identify1](/images/Result61.jpg)
 ![Output of identify2](/images/Result62.jpg)
 ## 3-2. Estimate
