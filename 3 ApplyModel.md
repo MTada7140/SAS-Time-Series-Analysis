@@ -20,10 +20,18 @@ Submitting this code, we get the output below.
 ![Output of identify2](/images/Result62.jpg)
 ## 3-2. Estimate
 ### As we have got the model parameters, the next thing we must do is the estimation of model formula. To do this, code below is to be submitted.
-
+![Code of identify3](/images/ProcStepARIMA4.jpg)
+### With the result of this, the following estimation is done.
+![Output of estimate](/images/Result7.jpg)
 
 ## 3-3. Forecast
 ### The final thing is the forecasting.
+### The code is shown below.
+![Code of forecast](/images/ProcStepARIMA5.jpg)
+### And here is the output of forecasting for 12 month foreward.
+![Output of estimate](/images/Result8.jpg)
+
+
 
  
 
