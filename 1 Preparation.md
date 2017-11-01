@@ -10,5 +10,5 @@
 ## 1-2.Getting the data
 ### In this article, I'd like to use a 'real' data published on the web site. I found a monthly data of passengers from this site(http://new.censusatschool.org.nz/resource/time-series-data-sets-2013/).
 ### The data is organised in the form of csv file and look like this.
- ![Data 'NZAirPassengers.csv'(partially displayed)](/images/NZAirPassengers.jpg)
+ ![Data 'NZAirPassengers.csv'(partially displayed)](/images/NZAirPassengers.bmp)
 
