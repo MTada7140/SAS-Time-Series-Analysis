@@ -13,7 +13,7 @@
  ![Data 'NZAirPassengers.csv'(partially displayed)](/images/NZAirPassengers.jpg)
 ### As you can see, there are three columns contained and 154 records in total in this file to cover from January of 2000 to October of 2012. I am going to read and create SAS data set for this file on the next section.
 ## 1-3.Reading the raw data from csv file
-### To read the raw data from csv file we saw on the previous section, the first program I wrote and submitted is listed below.
+### To read the raw data from csv file we saw on the previous section, the first program I write and submitted is listed below.
  ![The first program](/images/DataStep1.jpg)
 ### There are five program steps in this program. The first line specifies the name of output dataset with second line showing input file specification. Please note that there are two options added to 'infile' statement. One is 'dsd' which is used to read comma seperated file and another is 'firstobs' which is used to skip reading the first line which contains only the column headding. Submitting this one, I got the result below.
  ![Result of the first program](/images/Result1.jpg)
