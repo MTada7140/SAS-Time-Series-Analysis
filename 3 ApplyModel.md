@@ -19,7 +19,12 @@ Submitting this code, we get the output below.
 ![Output of identify1](/images/Result61.jpg)
 ![Output of identify2](/images/Result62.jpg)
 ## 3-2. Estimate
-### As we have got the model parameters, 
+### As we have got the model parameters, the next thing we must do is the estimation of model formula. To do this, code below is to be submitted.
+
+
+## 3-3. Forecast
+### The final thing is the forecasting.
+
  
 
 
