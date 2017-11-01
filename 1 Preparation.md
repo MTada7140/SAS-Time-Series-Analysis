@@ -1,4 +1,4 @@
-# 1.Preparation for time series analysis 
+# 1.Preparations for time series analysis 
 
 ## 1-1.Software
 ###   Surprisingly, since 2016, SAS software can be used free of charge for learning purpose. You can download and install the required software from this URL(https://www.sas.com/en_nz/software/university-edition/download-software.html). The initial panel of "SAS University Edition" looks like this.  
